@@ -17,7 +17,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+venv/Lib/
 lib64/
 parts/
 sdist/
@@ -108,7 +108,7 @@ media/
 *.pyc
 *.db
 *.pid
-.idea
+
 # Ignore Django Migrations in Development if you are working on team
 
 # Only for Development only
